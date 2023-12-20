@@ -27,6 +27,11 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ykundesu)](https://github.com/ykundesu/)
+# 開発しているもの
+## [SuperNewRoles]{https://github.com/SuperNewRoles/SuperNewRoles)
+AmongUsに役職や機能を追加するMODです。
+## [Anti TwitterSpam](github.com/ykundesu/AntiTwitterSpam)
+Twitterからスパムを非表示にして快適なツイ廃ライフを送るためのブラウザ拡張機能
 # 連絡
 [SuperNewRoles](https://github.com/SuperNewRoles/SuperNewRoles)関係のものはSuperNewRoles公式Discordサーバーまでご連絡ください。<br>
 その他個人で何かあれば[Issue](https://github.com/ykundesu/ykundesu/issues)、もしくは[Twitter](https://twitter.com/ReYYYYoking)、<br>
