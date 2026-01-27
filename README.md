@@ -1,6 +1,3 @@
-### やあ👋
-よっキングだよ、よろしくね。
-
 <p align="left">
   <a href="https://github.com/yutkat/ykundesu/">
     <img src="https://komarev.com/ghpvc/?username=ykundesu" alt="ykundesu" />
@@ -16,10 +13,8 @@
   </a>
 </p>
 
-## できること(言語)
 [![My Skills](https://skillicons.dev/icons?i=py,java,cs,html,js)](https://skillicons.dev)
-## できること(だいたい)
-[![My Skills](https://skillicons.dev/icons?i=dotnet,discord,bots,django,docker,flask,git,github,heroku,jquery,mongodb,unity&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,discord,bots,django,docker,flask,git,github,,mongodb,unity&perline=4)](https://skillicons.dev)
 ## トロフィー
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykundesu&layout=compact&show_icons=true" />
@@ -31,16 +26,17 @@
 ## [SuperNewRoles](https://github.com/SuperNewRoles/SuperNewRoles)
 AmongUsに役職や機能を追加するMOD<br>
 複数人で開発
-## [Anti TwitterSpam](github.com/ykundesu/AntiTwitterSpam)
-Twitterからスパムを非表示にして快適なツイ廃ライフを送るためのブラウザ拡張機能
 # 運営終了したもの
 ## よっぴーしすてむ
 チケットや読み上げ機能などを備えた高機能DiscordBOT<br>
 herokuの有料化に伴い終了
+## [Anti TwitterSpam](github.com/ykundesu/AntiTwitterSpam)
+Twitterからスパムを非表示にして快適なツイ廃ライフを送るためのブラウザ拡張機能
+
 # 連絡
 [SuperNewRoles](https://github.com/SuperNewRoles/SuperNewRoles)関係のものはSuperNewRoles公式Discordサーバーまでご連絡ください。<br>
-その他個人で何かあれば[Issue](https://github.com/ykundesu/ykundesu/issues)、もしくは[Twitter](https://twitter.com/ReYYYYoking)、<br>
-もしくはDiscord(yyyyoking)までお願いします。気づかなかったらごめん。<br>
+その他個人で何かあればcontact@yoking.dev、[Twitter](https://twitter.com/ReYYYYoking)、
+Discord(yyyyoking)のどれかに送ってください。<br>
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ReYYYYoking)
 [![Twitter](https://skillicons.dev/icons?i=discord)](https://discord.com)
