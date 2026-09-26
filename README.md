@@ -19,10 +19,11 @@ Among Us に役職や各種機能を追加する大規模Mod。メイン開発�
 - **2022年2月21日** に v1.0.0 をリリースし、以降も継続的に開発
 - クライアント実装にとどまらず、ゲーム内通報機能や解析機能などの**サーバーサイド実装**も担当
 
-## [和歌山高専非公式アプリ](https://wakoosen-app.yoking.dev)
+## [和歌山高専非公式アプリ](https://github.com/ykundesu/WakayamaApp.Astro)
 
-和歌山高専に関する情報を閲覧できるWebアプリです。授業情報や寮食などを素早く確認できます。<br>
-Cloudflare Pages や Gemini API などを活用し、低コストで精度の高い情報提供を行っています。
+和歌山高専に関する情報を閲覧できる非公式のWebアプリです。授業情報や寮食などを素早く確認できます。<br>
+Cloudflare Pages や LLM などを活用し、低コストで精度の高い情報提供を行っています。
+WebアプリURL: [https://wakoosen-app.yoking.dev](https://wakoosen-app.yoking.dev)
 
 # 過去に開発していたもの
 
