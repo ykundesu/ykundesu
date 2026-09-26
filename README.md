@@ -22,7 +22,7 @@ Among Us に役職や各種機能を追加する大規模Mod。メイン開発�
 ## [和歌山高専非公式アプリ](https://github.com/ykundesu/WakayamaApp.Astro)
 
 和歌山高専に関する情報を閲覧できる非公式のWebアプリです。授業情報や寮食などを素早く確認できます。<br>
-Cloudflare Pages や LLM などを活用し、低コストで精度の高い情報提供を行っています。
+Cloudflare Pages や LLM などを活用し、低コストで精度の高い情報提供を行っています。<br>
 WebアプリURL: [https://wakoosen-app.yoking.dev](https://wakoosen-app.yoking.dev)
 
 # 過去に開発していたもの
